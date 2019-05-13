@@ -1,6 +1,6 @@
 # Site
 title:              黑脸包公
-bio:                '我想静静.'
+bio:                'A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal Turing Machine..'
 description:        "书山有路勤为径，学海无涯苦作舟."
 reading_time:       true
 words_per_minute:   200
@@ -38,19 +38,16 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
+
 github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
