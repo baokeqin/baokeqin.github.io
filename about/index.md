@@ -12,7 +12,7 @@ feature: https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/im
  欢迎访问我的网站，我叫包克勤，这里是我用来记录一些自己的工作学习状态，以及分享一些个人的创作过程。
  我对游戏内容创作充满热情，这个网站展示了我的一些作品。如有任何疑问，请随时与我联系。
 
-<H4>联系方式</H4>
+<H4>联系方式：</H4>
   <p><b>Email：<b>1106495826@qq.com<p>
   <p><b>Q Q:<b>1106495826<p>
   
