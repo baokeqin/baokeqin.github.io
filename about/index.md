@@ -13,6 +13,6 @@ feature: https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/im
  我对游戏内容创作充满热情，这个网站展示了我的一些作品。如有任何疑问，请随时与我联系。
 
 <H4>联系方式</H4>
-  <b>Email：<b>1106495826@qq.com
-  <b>Q Q:<b>1106495826
-  <b>视频链接<b>https://space.bilibili.com/12767453/#/channel/detail?cid=49935
+  <p><b>Email：<b>1106495826@qq.com<p>
+  <p><b>Q Q:<b>1106495826<p>
+  
