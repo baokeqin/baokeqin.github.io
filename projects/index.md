@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 个人作品
+title: 个人作品展示
 excerpt: "A List of Projects"
 date: 2019-03-21
 comments: false
