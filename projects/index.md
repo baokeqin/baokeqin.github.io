@@ -20,8 +20,8 @@ comments: false
 	<figcaption>Substance Designer.</figcaption>
 </figure>
 <figure class="half">
-	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
-	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gun/gun.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gun/guns.gif"></a>
+	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gun/gun.jpg"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gun/guns.jpg"></a>
 	<figcaption>Two images.</figcaption>
 </figure>
 <figure class="half">
