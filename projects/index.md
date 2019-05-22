@@ -8,6 +8,12 @@ comments: false
 <H4>你好！</H4>
  欢迎访问我的网站，我叫包克勤，这里是我用来记录一些自己的工作学习状态，以及分享一些个人的创作过程。
  我对游戏内容创作充满热情，这个网站展示了我的一些作品。如有任何疑问，请随时与我联系。
+ <figcaption>Shader制作的旗帜.</figcaption>
+ <figure class="half">
+	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/fire/fire.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/fire/fires.gif"></a>
+	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/SD/sd_02.jpg"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/SD/sd02s.jpg"></a>
+</figure>
+
  <figcaption>Substance Designer.</figcaption>
 <figure class="half">
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/SD/sd_01.jpg"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/SD/sd01s.jpg"></a>
