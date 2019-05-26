@@ -5,15 +5,19 @@ excerpt: "A List of Projects"
 date: 2019-03-21
 comments: false
 ---
-<H4>你好！</H4>
+<h4>你好！</H4>
  欢迎访问我的网站，我叫包克勤，这里是我用来记录一些自己的工作学习状态，以及分享一些个人的创作过程。
  我对游戏内容创作充满热情，这个网站展示了我的一些作品。如有任何疑问，请随时与我联系。
- <figcaption>Shader制作的旗帜以及雨水涟漪和斜坡流水.</figcaption>
-点击查看大图
+        <h4> 点击查看大图 <h4>
+ <figcaption>战火中的旗帜</figcaption>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/fire/fire.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/fire/fires.gif"></a>
+<figcaption>下雨时的公交站</figcaption>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/rain.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/rains.gif"></a>
+<figcaption>雨水斜坡滑落</figcaption>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/xie.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/xies.gif"></a>
-</figure>
+<figcaption>古建</figcaption>
+	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gujian/Gu_jian.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gujian/Gu_jians.gif"></a>
+ 
  <figcaption>Substance Designer.</figcaption>
 <figure class="half">
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/SD/sd_01.jpg"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/SD/sd01s.jpg"></a>
