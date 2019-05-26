@@ -10,14 +10,18 @@ comments: false
  我对游戏内容创作充满热情，这个网站展示了我的一些作品。如有任何疑问，请随时与我联系。
         <h4> 点击查看大图 <h4>
  <figcaption>战火中的旗帜</figcaption>
+ <figure>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/fire/fire.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/fire/fires.gif"></a>
+	<figure>
 下雨时的公交站
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/rain.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/rains.gif"></a>
+	<figure>
 雨水斜坡滑落
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/xie.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/xies.gif"></a>
+	<figure>
 古建
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gujian/Gu_jian.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gujian/Gu_jians.gif"></a>
- 
+ <figure>
  <figcaption>Substance Designer.</figcaption>
 <figure class="half">
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/SD/sd_01.jpg"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/SD/sd01s.jpg"></a>
