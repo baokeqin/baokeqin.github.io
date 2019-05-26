@@ -12,14 +12,17 @@ comments: false
  <figcaption>战火中的旗帜</figcaption>
  <figure>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/fire/fire.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/fire/fires.gif"></a>
-	<figure>
+<figure>
 下雨时的公交站
+<figure>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/rain.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/rains.gif"></a>
-	<figure>
+<figure>
 雨水斜坡滑落
+<figure>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/xie.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/xies.gif"></a>
-	<figure>
+<figure>
 古建
+<figure>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gujian/Gu_jian.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gujian/Gu_jians.gif"></a>
  <figure>
  <figcaption>Substance Designer.</figcaption>
