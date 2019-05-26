@@ -11,11 +11,11 @@ comments: false
         <h4> 点击查看大图 <h4>
  <figcaption>战火中的旗帜</figcaption>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/fire/fire.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/fire/fires.gif"></a>
-<figcaption>下雨时的公交站</figcaption>
+下雨时的公交站
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/rain.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/rains.gif"></a>
-<figcaption>雨水斜坡滑落</figcaption>
+雨水斜坡滑落
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/xie.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/xies.gif"></a>
-<figcaption>古建</figcaption>
+古建
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gujian/Gu_jian.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gujian/Gu_jians.gif"></a>
  
  <figcaption>Substance Designer.</figcaption>
