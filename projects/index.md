@@ -19,7 +19,7 @@ comments: false
 <figure>
 <figcaption>夺岛战役<figcaption>
 <figure>
-	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/hangmu/hangmu.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/imghangmu/hangmus.gif"></a>
+	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/hangmu/hangmu.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/hangmu/hangmus.gif"></a>
 <figure>
 <figcaption>雨水斜坡滑落<figcaption>
 <figure>
