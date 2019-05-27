@@ -13,9 +13,9 @@ comments: false
  <figure>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/fire/fire.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/fire/fires.gif"></a>
 <figure>
-<figcaption>下雨时的公交站<figcaption>
+<figcaption>music频谱（根据实时音乐展示）<figcaption>
 <figure>
-	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/rain.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/rains.gif"></a>
+	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/music/music.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/music/musics.gif"></a>
 <figure>
 <figcaption>雨水斜坡滑落<figcaption>
 <figure>
@@ -25,6 +25,10 @@ comments: false
 <figure>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gujian/Gu_jian.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/gujian/Gu_jians.gif"></a>
  <figure>
+ <figcaption>下雨时的公交站<figcaption>
+<figure>
+	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/rain.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/rains.gif"></a>
+<figure>
  <figcaption>Substance Designer.</figcaption>
 <figure class="half">
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/SD/sd_01.jpg"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/SD/sd01s.jpg"></a>
