@@ -17,6 +17,10 @@ comments: false
 <figure>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/music/music.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/music/musics.gif"></a>
 <figure>
+<figcaption>夺岛战役<figcaption>
+<figure>
+	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/hangmu/hangmu.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/imghangmu/hangmus.gif"></a>
+<figure>
 <figcaption>雨水斜坡滑落<figcaption>
 <figure>
 	<a href="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/xie.gif"><img src="https://raw.githubusercontent.com/baokeqin/baokeqin.github.io/master/img/rain/xies.gif"></a>
