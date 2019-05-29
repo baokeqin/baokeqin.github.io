@@ -9,8 +9,8 @@ comments: false
 <h4>你好！</H4>
  欢迎访问我的网站，我叫包克勤，这里是我用来记录一些自己的工作学习状态，以及分享一些个人的创作过程。
  我对游戏内容创作充满热情，这个网站展示了我的一些作品。如有任何疑问，请随时与我联系。
-<h4>视频作品链接请访问以下链接<h4>
-<h4><a href="https://space.bilibili.com/12767453/channel/detail?cid=49935" target="_blank">跳到视频列表</a><h4>
+<h4>视频作品链接请<figcaption><a href="https://space.bilibili.com/12767453/channel/detail?cid=49935" target="_blank">点击这里</a><figcaption><h4>
+<figcaption><a href="https://space.bilibili.com/12767453/channel/detail?cid=49935" target="_blank">跳到视频列表</a><figcaption>
 <h4> 点击可查看大图（Gif图片文件过大，请刷新耐心等待，敬请谅解） <h4>
  <figcaption>战火中的旗帜</figcaption>
  <figure>
